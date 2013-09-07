@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+body {
+	font-size: 62.5%;
+	direction: rtl
+}
+.ui-li-thumb {
+	margin-left: 5px;
+	height: 100%;
+}
+.title {
+	color: #023d07;
+	border-bottom: 1px solid #CCC;
+	font-size: 2em;
+}
+.k_image img {
+	float: right;
+	padding-left: 14px;
+	border-radius: 5px;
+	width: 30.33%;
+	height: 50%;
+}
+.k_details {
+	font-family: tahoma;
+	font-size: 1.7em;
+	text-align: justify;
+}
+.jhomara {
+	text-align: left;
+	float: left;
+	font-size: 2em;
+	background: #b85c5c;
+	color: #fff;
+	padding: 10px;
+	margin: 5px;
+	border-radius: 5px;
+}
