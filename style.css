@@ -11,13 +11,13 @@ body {
 .title {
 	color: #023d07;
 	border-bottom: 1px solid #CCC;
-	font-size: 2em;
+	font-size: 3em;
 }
 .k_image img {
 	float: right;
-	padding-left: 14px;
+	padding: 14px;
 	border-radius: 5px;
-	width: 30.33%;
+	width: 40.33%;
 	height: 50%;
 }
 .k_details {
@@ -28,7 +28,7 @@ body {
 .jhomara {
 	text-align: left;
 	float: left;
-	font-size: 2em;
+	font-size: 1em;
 	background: #b85c5c;
 	color: #fff;
 	padding: 10px;
